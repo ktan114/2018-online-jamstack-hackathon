@@ -139,19 +139,9 @@ Custom Training walkthrough: http://help.clarifai.com/custom-training
 ### Video tutorial
 4 minute Intro to Clarifai including an API demo with the Python client: https://youtu.be/YOrrROME2zc
 
-### Support & Help
-We'll have a table at the hackathon, and will provide you with all the guidance you need. Come find Abhishek from our Product team!
-
-We also have resources available at: http://help.clarifai.com/
-
 ### Prizes
-The winning team will win a Cozmo Robot! 
 
-https://www.anki.com/en-us/cozmo
-
-![Cozmo Robot](https://www.anki.com/on/demandware.static/-/Sites-anki-master-catalog/default/dw3b4502ca/cozmo/cozmo-LE--desktop.jpg)
-
-Top 5 teams will also have the opportunity to feature their hacks on Clarifai's blog!
+1st place team: $500 cash
 
 ***
 
@@ -287,7 +277,7 @@ We'll be there hacking with you the whole time.
 
 ### Prizes
 
-Coming soon.
+Top team using Pilon will receive $150 cash prize.
 
 ***
 
