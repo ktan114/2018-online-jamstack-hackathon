@@ -25,8 +25,10 @@ Most hackathons focus principally on the end-goal -- the product. While this hac
 
 ### The Process -- what it means
 
-Building great software isn't just about the code you write. Your planned approach to building it is just as important. So here's what this means for you as a hacker at this hackathon:
-* Judges will pose a number of questions for you, and share them with you in the Discord group to see how you are handling your approach to building your app. Do you have a plan of action? Are you organized in your list of responsibilities and dividing tasks? Are the goals realistic given the limited time frame?
+Building great software isn't just about the code you write. Your planned approach to building it just as important. So here's what this means for you as a hacker at this hackathon:
+* Judges may pose a number of questions for you, and share them with you in the Discord group
+* Judges may visit teams and ask you these questions to see how you are handling your approach to building your app. Do you have a plan of action? Are you organized in your list of responsibilities and dividing tasks? Are the goals realistic given the limited time frame?
+* These ad-hoc interviews will take place shortly after lunch on Saturday. We will livestream them.
 * Your answers to these questions will be a small percentage of your overall judging score.
 
 
@@ -37,6 +39,19 @@ Note: This code applies to both in-person and online interaction. Violations wil
 
 ## Purpose
 The Hackathon is designed to be a fun and educational environment. Of course there will also be competition for prizes -- but our main goal is education, building community, and learning to use some cool APIs and technologies!
+
+## Perks
+
+Thanks to the generosity of GitHub, you will have coffee, breakfast, lunch, and light dinner on both days! 👏*applause for GitHub*👏  
+
+Send them a thank you note for being the most amazing hosts on [Twitter](https://twitter.com/github)!
+
+Once hacking ends on Sunday, we'll celebrate with some beer, wine, cocktails and mockatails, and watch the top 6 teams get interviewed. The interviews will be broadcast on the many monitors at GitHub's office. Then we'll reconvene to see the top 3 teams present on stage!
+
+## Location
+GitHub HQ  
+88 Colin P Kelly Jr St,  
+San Francisco, CA 94107  
 
 ## Team Size
 * Max team size: 6
