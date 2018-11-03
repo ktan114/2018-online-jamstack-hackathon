@@ -132,3 +132,14 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# TIL - Today I Learned
+### tbd
+* Teammates:
+    - Kevin Tan (@Node)
+    - Joseph Thompson (@Jthomps838)
+    - Nick Piaskoski (@pieguy)
+    - Chris Watkin  (@DeafDucky)
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/ktan114/JAMstack-Hackathon)
+* [GitHub URL](https://jamstack-hackathon-project.netlify.com/)
+ ***
