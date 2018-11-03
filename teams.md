@@ -33,11 +33,38 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
-# MAYN! MAYN! MAYN!
-### An auction where buyers chats 'MINE!', it also has buy and sell cuz reasons.
+# QXC
+### TBD
+- **Teammates**:
+  - Ian Wilson (@iwilsonq#4979)
+  - Roman Morozov (@sublimeye#6781)
+  - Simon Baev (@simon#3299)
+  - Vadim Dermanovskiy (@noodly#7880)
+  - Dennis Xing (@dennis#1656)
+- **Seeking Teammates**: No
+- [Project URL](https://github.com/iwilsonq/qxc)
+
+***
+
+# SmarTea Pants
+### A trivia study app for contestants who are trying to qualify for the TV gameshow Jeopardy
 * Teammates:
-    - Renz Christen Yeomer A. Pagulayan (@ThatOneNoob)
+    - Fay Yang (@CodeFay)
+    - Colin King-Bailey (@ckingbailey)
 * Seeking Teammates: Yes
-* [Project Website](https://romantic-euler-651676.netlify.com/)
-* [Project Repo](https://github.com/larongbingo/MAYN-MAYN-MAYN)
+* [SmarTea Pants repo on Github](https://github.com/ckingbailey/smarteapants)
+
+***
+
+# "COMING SOON"
+### tbd
+* Teammates:
+    - Jun Sub Choi (@Stard)
+    - Andrew Ngo (@AndyNoAwkward)
+    - David Mai (@2BiK)
+    - Alan Fu (@BrandHeart)
+* Seeking Teammates: No
+* [Project URL](https://github.com/Broke-Bois-Club)
+* Project Name tbd
+
 ***
